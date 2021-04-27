@@ -4,9 +4,9 @@ Code and results for measuring transit accessibility to food banks in Toronto fo
 
 Results:
 
-![m1](maps/E_mintraveltime_feb2020.png)
+![m1](map_v2/E_mintraveltime_feb2020.png)
 
-![m2](maps/E_mintraveltime_apr2021.png)
+![m2](map_v2/E_mintraveltime_apr2021.png)
 
-![m3](maps/E_mintraveltime_delta.png)
+![m3](map_v2/E_mintraveltime_delta.png)
 
