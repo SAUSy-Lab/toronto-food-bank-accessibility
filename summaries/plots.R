@@ -1,0 +1,142 @@
+library(tidyverse)
+library(scales)
+
+setwd("~/Dropbox/work/foodbank/access/summaries")
+
+dfb <- read.csv("out_db.csv") 
+
+weighted.mean(dfb$A_20, dfb$dbpop)
+weighted.mean(dfb$A_21, dfb$dbpop)
+
+weighted.mean(dfb$A_20, dfb$lim)
+weighted.mean(dfb$A_21, dfb$lim)
+
+weighted.mean(dfb$A_20, dfb$lico)
+weighted.mean(dfb$A_21, dfb$lico)
+
+weighted.mean(dfb$A_20, dfb$vismin)
+weighted.mean(dfb$A_21, dfb$vismin)
+
+weighted.mean(dfb$A_20, dfb$immig)
+weighted.mean(dfb$A_21, dfb$immig)
+
+weighted.mean(dfb$A_20, dfb$no_car_rate)
+weighted.mean(dfb$A_21, dfb$no_car_rate)
+
+
+dfc <- read.csv("out_cdf.csv")
+
+
+p1 <- ggplot() + 
+  geom_point(aes(x = dfc$j, y = 100 * dfc$pop_2020_p), color = "#ffbe81") +
+  geom_line(aes(x =  dfc$j, y = 100 *dfc$pop_2020_p), color = "#ffbe81") +
+  geom_point(aes(x = dfc$j, y = 100 *dfc$pop_2021_p), color = "#5ecea5") +
+  geom_line(aes(x = dfc$j, y = 100 *dfc$pop_2021_p), color = "#5ecea5") +
+  scale_x_continuous(limits = c(0,45), breaks = seq(0,45,by=5), minor_breaks = NULL) +
+  scale_y_continuous(breaks = seq(0,100,by=10), minor_breaks = NULL, labels = function(x) paste0(x, "%")) +
+  xlab("Travel time by transit to the nearest food bank") + 
+  ylab("% of population") + 
+  theme_minimal() + theme(axis.title=element_text(size=10))
+
+p2 <- ggplot() + 
+  geom_point(aes(x = dfc$j, y = 100 * dfc$lim_2020_p), color = "#ffbe81") +
+  geom_line(aes(x =  dfc$j, y = 100 *dfc$lim_2020_p), color = "#ffbe81") +
+  geom_point(aes(x = dfc$j, y = 100 *dfc$lim_2021_p), color = "#5ecea5") +
+  geom_line(aes(x = dfc$j, y = 100 *dfc$lim_2021_p), color = "#5ecea5") +
+  scale_x_continuous(limits = c(0,45), breaks = seq(0,45,by=5), minor_breaks = NULL) +
+  scale_y_continuous(breaks = seq(0,100,by=10), minor_breaks = NULL, labels = function(x) paste0(x, "%")) +
+  xlab("Travel time by transit to the nearest food bank") + 
+  ylab("% in low-income (LIM) hhld") + 
+  theme_minimal() + theme(axis.title=element_text(size=10))
+
+p3 <- ggplot() + 
+  geom_point(aes(x = dfc$j, y = 100 * dfc$lico_2020_p), color = "#ffbe81") +
+  geom_line(aes(x =  dfc$j, y = 100 *dfc$lico_2020_p), color = "#ffbe81") +
+  geom_point(aes(x = dfc$j, y = 100 *dfc$lico_2021_p), color = "#5ecea5") +
+  geom_line(aes(x = dfc$j, y = 100 *dfc$lico_2021_p), color = "#5ecea5") +
+  scale_x_continuous(limits = c(0,45), breaks = seq(0,45,by=5), minor_breaks = NULL) +
+  scale_y_continuous(breaks = seq(0,100,by=10), minor_breaks = NULL, labels = function(x) paste0(x, "%")) +
+  xlab("Travel time by transit to the nearest food bank") + 
+  ylab("% in low-income (LICO) hhld") + 
+  theme_minimal() + theme(axis.title=element_text(size=10))
+
+p4 <- ggplot() + 
+  geom_point(aes(x = dfc$j, y = 100 * dfc$vismin_2020_p), color = "#ffbe81") +
+  geom_line(aes(x =  dfc$j, y = 100 *dfc$vismin_2020_p), color = "#ffbe81") +
+  geom_point(aes(x = dfc$j, y = 100 *dfc$vismin_2021_p), color = "#5ecea5") +
+  geom_line(aes(x = dfc$j, y = 100 *dfc$vismin_2021_p), color = "#5ecea5") +
+  scale_x_continuous(limits = c(0,45), breaks = seq(0,45,by=5), minor_breaks = NULL) +
+  scale_y_continuous(breaks = seq(0,100,by=10), minor_breaks = NULL, labels = function(x) paste0(x, "%")) +
+  xlab("Travel time by transit to the nearest food bank") + 
+  ylab("% of visible minorities") + 
+  theme_minimal() + theme(axis.title=element_text(size=10))
+
+p5 <- ggplot() + 
+  geom_point(aes(x = dfc$j, y = 100 * dfc$immig_2020_p), color = "#ffbe81") +
+  geom_line(aes(x =  dfc$j, y = 100 *dfc$immig_2020_p), color = "#ffbe81") +
+  geom_point(aes(x = dfc$j, y = 100 *dfc$immig_2021_p), color = "#5ecea5") +
+  geom_line(aes(x = dfc$j, y = 100 *dfc$immig_2021_p), color = "#5ecea5") +
+  scale_x_continuous(limits = c(0,45), breaks = seq(0,45,by=5), minor_breaks = NULL) +
+  scale_y_continuous(breaks = seq(0,100,by=10), minor_breaks = NULL, labels = function(x) paste0(x, "%")) +
+  xlab("Travel time by transit to the nearest food bank") + 
+  ylab("% of recent immigrants") + 
+  theme_minimal() + theme(axis.title=element_text(size=10))
+
+p6 <- ggplot() + 
+  geom_point(aes(x = dfc$j, y = 100 * dfc$nocar_2020_p), color = "#ffbe81") +
+  geom_line(aes(x =  dfc$j, y = 100 *dfc$nocar_2020_p), color = "#ffbe81") +
+  geom_point(aes(x = dfc$j, y = 100 *dfc$nocar_2021_p), color = "#5ecea5") +
+  geom_line(aes(x = dfc$j, y = 100 *dfc$nocar_2021_p), color = "#5ecea5") +
+  scale_x_continuous(limits = c(0,45), breaks = seq(0,45,by=5), minor_breaks = NULL) +
+  scale_y_continuous(breaks = seq(0,100,by=10), minor_breaks = NULL, labels = function(x) paste0(x, "%")) +
+  xlab("Travel time by transit to the nearest food bank") + 
+  ylab("% in zero car hhld") + 
+  theme_minimal() + theme(axis.title=element_text(size=10))
+
+
+
+
+
+multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
+  library(grid)
+  
+  # Make a list from the ... arguments and plotlist
+  plots <- c(list(...), plotlist)
+  
+  numPlots = length(plots)
+  
+  # If layout is NULL, then use 'cols' to determine layout
+  if (is.null(layout)) {
+    # Make the panel
+    # ncol: Number of columns of plots
+    # nrow: Number of rows needed, calculated from # of cols
+    layout <- matrix(seq(1, cols * ceiling(numPlots/cols)),
+                     ncol = cols, nrow = ceiling(numPlots/cols))
+  }
+  
+  if (numPlots==1) {
+    print(plots[[1]])
+    
+  } else {
+    # Set up the page
+    grid.newpage()
+    pushViewport(viewport(layout = grid.layout(nrow(layout), ncol(layout))))
+    
+    # Make each plot, in the correct location
+    for (i in 1:numPlots) {
+      # Get the i,j matrix positions of the regions that contain this subplot
+      matchidx <- as.data.frame(which(layout == i, arr.ind = TRUE))
+      
+      print(plots[[i]], vp = viewport(layout.pos.row = matchidx$row,
+                                      layout.pos.col = matchidx$col))
+    }
+  }
+}
+
+
+multiplot(p1, p2, p3, p4, p5, p6, cols=2)
+
+
+
+
+#

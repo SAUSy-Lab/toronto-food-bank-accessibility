@@ -1,0 +1,762 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="6.5in"
+   height="4in"
+   viewBox="0 0 165.1 101.6"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.2 (394de47547, 2021-03-26)"
+   sodipodi:docname="I_mintraveltime.svg"
+   inkscape:export-filename="/home/jamaps/Dropbox/work/foodbank/access/map_v2/E_mintraveltime_delta.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="238.89513"
+     inkscape:cy="160.25751"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer5"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     units="in"
+     inkscape:snap-page="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="1107"
+     inkscape:window-maximized="1"
+     inkscape:object-nodes="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid962" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="map_april2021"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/jamaps/Dropbox/work/foodbank/access/map_v2/Q_mintraveltime_april2021.png"
+       xlink:href="Q_mintraveltime_april2021.png"
+       width="165.10001"
+       height="101.6"
+       preserveAspectRatio="none"
+       id="image3550"
+       x="-6.1035157e-06"
+       y="1.5258789e-06" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="map_feb2020"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <image
+       sodipodi:absref="/home/jamaps/Dropbox/work/foodbank/access/map_v2/Q_mintraveltime_feb2020.png"
+       xlink:href="Q_mintraveltime_feb2020.png"
+       y="0"
+       x="-6.1035157e-06"
+       id="image927"
+       preserveAspectRatio="none"
+       height="101.6"
+       width="165.10001" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="map_delta"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <image
+       sodipodi:absref="/home/jamaps/Dropbox/work/foodbank/access/map_v2/Q_mintraveltime_delta.png"
+       xlink:href="Q_mintraveltime_delta.png"
+       width="165.10001"
+       height="101.6"
+       preserveAspectRatio="none"
+       id="image956"
+       x="-6.1035157e-06"
+       y="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="lables_april_2021"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#8aa4fa;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect916-3"
+       width="9.2393303"
+       height="1.8163512"
+       x="115.58549"
+       y="82.933266"
+       rx="6.8608745e-07" />
+    <rect
+       style="fill:#aadbf7;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect916-3-6"
+       width="9.2393303"
+       height="1.8163513"
+       x="124.82483"
+       y="82.933266"
+       rx="6.8608745e-07" />
+    <rect
+       style="fill:#ffecaf;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect916-3-6-7"
+       width="9.2393303"
+       height="1.8163514"
+       x="134.06413"
+       y="82.933266"
+       rx="6.8608745e-07" />
+    <rect
+       style="fill:#fffce7;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect916-3-6-7-5"
+       width="9.2393303"
+       height="1.8163514"
+       x="143.30347"
+       y="82.933266"
+       rx="6.8608745e-07" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.9147"
+       y="87.919319"
+       id="text980-3"><tspan
+         sodipodi:role="line"
+         id="tspan978-3"
+         x="122.9147"
+         y="87.919319"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">15</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="132.04857"
+       y="87.830032"
+       id="text980-9"><tspan
+         sodipodi:role="line"
+         id="tspan978-0"
+         x="132.04857"
+         y="87.830032"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="141.39851"
+       y="87.628532"
+       id="text980-3-4"><tspan
+         sodipodi:role="line"
+         id="tspan978-3-3"
+         x="141.39851"
+         y="87.628532"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         dy="0">45</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="115.33637"
+       y="77.467415"
+       id="text980-3-45"><tspan
+         sodipodi:role="line"
+         id="tspan978-3-38"
+         x="115.33637"
+         y="77.467415"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">Travel time by transit* (minutes) </tspan><tspan
+         sodipodi:role="line"
+         x="115.33637"
+         y="81.129883"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1054">to the nearest food bank</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.158489;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path1078"
+       cx="146.23808"
+       cy="22.381592"
+       r="1.161422"
+       transform="rotate(17)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.176098px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.33256,64.12581 0.3148,-1.029678"
+       id="path1080" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="145.4563"
+       y="20.689392"
+       id="text980-3-1"
+       transform="rotate(17)"><tspan
+         sodipodi:role="line"
+         id="tspan978-3-1"
+         x="145.4563"
+         y="20.689392"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">N</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.79575,64.202775 h 17.46622"
+       id="path1080-3"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="142.41324"
+       y="63.620972"
+       id="text980-3-1-1"><tspan
+         sodipodi:role="line"
+         id="tspan978-3-1-5"
+         x="142.41324"
+         y="63.620972"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">5km</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.75799,64.986385 v -1.64373"
+       id="path1080-3-8"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 153.30348,64.954545 v -1.64374"
+       id="path1080-3-8-1"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="115.38721"
+       y="93.799652"
+       id="text980-3-45-3"><tspan
+         sodipodi:role="line"
+         x="115.38721"
+         y="93.799652"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1225">*based on TTC schedules at 3pm </tspan><tspan
+         sodipodi:role="line"
+         x="115.38721"
+         y="96.546509"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan995"> on Wednesday April 21, 2021</tspan></text>
+    <circle
+       style="fill:#ff0178;fill-opacity:1;stroke:#fff2f8;stroke-width:0.1736;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1250"
+       cx="147.55534"
+       cy="80.315033"
+       r="0.67469066" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2.4904125"
+       y="4.623487"
+       id="text955-3-6"><tspan
+         sodipodi:role="line"
+         x="2.4904125"
+         y="4.623487"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan953-7-2">Transit Accessibility to Food Banks 05/2021</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.816671"
+       y="97.569366"
+       id="text980-3-45-7-4-9"><tspan
+         sodipodi:role="line"
+         x="23.816671"
+         y="97.569366"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1054-4-9-1">50 people living below the poverty line (LICO)</tspan></text>
+    <circle
+       style="display:inline;fill:#2a2c33;fill-opacity:1;stroke:#fff2f8;stroke-width:0.133821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1270-2"
+       cx="21.873213"
+       cy="96.600937"
+       r="0.33617163" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g983"
+     inkscape:label="lables_feb_2020"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#8aa4fa;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect931"
+       width="9.2393303"
+       height="1.8163512"
+       x="115.58549"
+       y="82.933266"
+       rx="6.8608745e-07" />
+    <rect
+       style="fill:#aadbf7;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect933"
+       width="9.2393303"
+       height="1.8163513"
+       x="124.82483"
+       y="82.933266"
+       rx="6.8608745e-07" />
+    <rect
+       style="fill:#ffecaf;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect935"
+       width="9.2393303"
+       height="1.8163514"
+       x="134.06413"
+       y="82.933266"
+       rx="6.8608745e-07" />
+    <rect
+       style="fill:#fffce7;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect937"
+       width="9.2393303"
+       height="1.8163514"
+       x="143.30347"
+       y="82.933266"
+       rx="6.8608745e-07" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="122.9147"
+       y="87.919319"
+       id="text941"><tspan
+         sodipodi:role="line"
+         id="tspan939"
+         x="122.9147"
+         y="87.919319"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">15</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="132.04857"
+       y="87.830032"
+       id="text945"><tspan
+         sodipodi:role="line"
+         id="tspan943"
+         x="132.04857"
+         y="87.830032"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">30</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="141.39851"
+       y="87.628532"
+       id="text949"><tspan
+         sodipodi:role="line"
+         id="tspan947"
+         x="141.39851"
+         y="87.628532"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         dy="0">45</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="115.33637"
+       y="77.467415"
+       id="text955"><tspan
+         sodipodi:role="line"
+         id="tspan951"
+         x="115.33637"
+         y="77.467415"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">Travel time by transit* (minutes) </tspan><tspan
+         sodipodi:role="line"
+         x="115.33637"
+         y="81.129883"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan953">to the nearest food bank</tspan></text>
+    <circle
+       style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.158489;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="circle957"
+       cx="146.23808"
+       cy="22.381592"
+       r="1.161422"
+       transform="rotate(17)" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.176098px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 133.33256,64.12581 0.3148,-1.029678"
+       id="path959" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="145.4563"
+       y="20.689392"
+       id="text963"
+       transform="rotate(17)"><tspan
+         sodipodi:role="line"
+         id="tspan961"
+         x="145.4563"
+         y="20.689392"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">N</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.79575,64.202775 h 17.46622"
+       id="path965"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="142.41324"
+       y="63.620972"
+       id="text969"><tspan
+         sodipodi:role="line"
+         id="tspan967"
+         x="142.41324"
+         y="63.620972"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">5km</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 135.75799,64.986385 v -1.64373"
+       id="path971"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 153.30348,64.954545 v -1.64374"
+       id="path973"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="115.38721"
+       y="93.799652"
+       id="text979"><tspan
+         sodipodi:role="line"
+         x="115.38721"
+         y="93.799652"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan985">*based on TTC schedules at 3pm </tspan><tspan
+         sodipodi:role="line"
+         x="115.38721"
+         y="96.546509"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan991"> on Wednesday February 19, 2020</tspan></text>
+    <circle
+       style="fill:#ff0178;fill-opacity:1;stroke:#fff2f8;stroke-width:0.1736;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="circle981"
+       cx="147.55534"
+       cy="80.315033"
+       r="0.67469066" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2.6024964"
+       y="4.6467528"
+       id="text955-3"><tspan
+         sodipodi:role="line"
+         x="2.6024964"
+         y="4.6467528"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan953-7">Transit Accessibility to Food Banks 02/2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.928755"
+       y="97.592636"
+       id="text980-3-45-7-4"><tspan
+         sodipodi:role="line"
+         x="23.928755"
+         y="97.592636"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1054-4-9">50 people living below the poverty line (LICO)</tspan></text>
+    <circle
+       style="fill:#2a2c33;fill-opacity:1;stroke:#fff2f8;stroke-width:0.133821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1270"
+       cx="21.985296"
+       cy="96.624207"
+       r="0.33617163" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="lables_delta"
+     style="display:inline">
+    <rect
+       style="display:inline;fill:#ffbe81;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect916-3-3"
+       width="9.2393303"
+       height="1.8163512"
+       x="-154.76704"
+       y="-77.843857"
+       rx="6.8608745e-07"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#f9f9d6;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect916-3-6-75"
+       width="9.2393303"
+       height="1.8163513"
+       x="-145.52769"
+       y="-77.843857"
+       rx="6.8608745e-07"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#c5e4aa;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect916-3-6-7-9"
+       width="9.2393303"
+       height="1.8163514"
+       x="-136.28841"
+       y="-77.843857"
+       rx="6.8608745e-07"
+       transform="scale(-1)" />
+    <rect
+       style="display:inline;fill:#5ecea5;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       id="rect916-3-6-7-5-2"
+       width="9.2393303"
+       height="1.8163514"
+       x="-127.04908"
+       y="-77.843857"
+       rx="6.8608745e-07"
+       transform="scale(-1)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="143.783"
+       y="80.611305"
+       id="text980-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan978-3-8"
+         x="143.783"
+         y="80.611305"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">+2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="135.02354"
+       y="80.654373"
+       id="text980-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan978-0-7"
+         x="135.02354"
+         y="80.654373"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">-2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="124.91819"
+       y="80.616623"
+       id="text980-3-4-3"><tspan
+         sodipodi:role="line"
+         id="tspan978-3-3-6"
+         x="124.91819"
+         y="80.616623"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">-10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="115.07352"
+       y="70.61599"
+       id="text980-3-45-1"><tspan
+         sodipodi:role="line"
+         id="tspan978-3-38-2"
+         x="115.07352"
+         y="70.61599"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">Change in travel time by transit* </tspan><tspan
+         sodipodi:role="line"
+         x="115.07352"
+         y="74.278458"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1054-9">(minutes) to the nearest food bank</tspan></text>
+    <circle
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.158489;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path1078-3"
+       cx="146.17137"
+       cy="17.847939"
+       r="1.161422"
+       transform="rotate(17)" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.176098px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 134.59428,59.770747 0.3148,-1.029678"
+       id="path1080-1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="145.38959"
+       y="16.155739"
+       id="text980-3-1-9"
+       transform="rotate(17)"><tspan
+         sodipodi:role="line"
+         id="tspan978-3-1-4"
+         x="145.38959"
+         y="16.155739"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">N</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 137.05747,59.847712 h 17.46622"
+       id="path1080-3-7"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="143.67496"
+       y="59.265911"
+       id="text980-3-1-1-8"><tspan
+         sodipodi:role="line"
+         id="tspan978-3-1-5-4"
+         x="143.67496"
+         y="59.265911"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">5km</tspan></text>
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 137.01971,60.631322 v -1.64373"
+       id="path1080-3-8-5"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#000000;stroke-width:0.176;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 154.5652,60.599482 v -1.64374"
+       id="path1080-3-8-1-0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="133.66844"
+       y="94.350029"
+       id="text980-3-45-3-3"><tspan
+         sodipodi:role="line"
+         x="133.66844"
+         y="94.350029"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1225-6">*based on TTC schedules at 3pm </tspan><tspan
+         sodipodi:role="line"
+         x="133.66844"
+         y="97.096886"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan995-1"> on April 21, 2021 and February</tspan><tspan
+         sodipodi:role="line"
+         x="133.66844"
+         y="99.84375"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1215">19, 2020</tspan><tspan
+         sodipodi:role="line"
+         x="133.66844"
+         y="102.48959"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1213" /></text>
+    <circle
+       style="display:inline;fill:#ff0178;fill-opacity:1;stroke:#fff2f8;stroke-width:0.1736;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1250-0"
+       cx="89.040634"
+       cy="93.117203"
+       r="0.67469066" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="151.93671"
+       y="80.66217"
+       id="text980-3-2-6"><tspan
+         sodipodi:role="line"
+         id="tspan978-3-8-3"
+         x="151.93671"
+         y="80.66217"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">+10</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="115.59248"
+       y="80.689285"
+       id="text980-3-4-3-2"><tspan
+         sodipodi:role="line"
+         id="tspan978-3-3-6-0"
+         x="115.59248"
+         y="80.689285"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">-30</tspan></text>
+    <circle
+       style="display:inline;fill:#0173ff;fill-opacity:1;stroke:#fff2f8;stroke-width:0.1736;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1250-0-6"
+       cx="89.015717"
+       cy="95.906837"
+       r="0.67469066" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="90.993607"
+       y="96.539635"
+       id="text980-3-45-3-3-3"><tspan
+         sodipodi:role="line"
+         x="90.993607"
+         y="96.539635"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1213-3">New locations </tspan><tspan
+         sodipodi:role="line"
+         x="90.993607"
+         y="99.286491"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1043">(opened since 03/2020)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="91.031799"
+       y="93.666588"
+       id="text980-3-45-3-3-3-5"><tspan
+         sodipodi:role="line"
+         x="91.031799"
+         y="93.666588"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1213-3-6">Open in 02/2020 and 05/2021</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="88.327957"
+       y="90.774841"
+       id="text980-3-45-1-2"><tspan
+         sodipodi:role="line"
+         x="88.327957"
+         y="90.774841"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1054-9-1">Foodbank Locations</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.11667px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="113.71571"
+       y="84.207176"
+       id="text980-3-45-3-3-2"><tspan
+         sodipodi:role="line"
+         x="113.71571"
+         y="84.207176"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1213-36">Travel time in 05/2021 - Travel time in 02/2020</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="2.614495"
+       y="4.6835093"
+       id="text955-3-7"><tspan
+         sodipodi:role="line"
+         x="2.614495"
+         y="4.6835093"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan953-7-0">Changes in transit accessibility to food banks (05/2021 - 02/2020)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="23.940754"
+       y="97.629395"
+       id="text980-3-45-7-4-93"><tspan
+         sodipodi:role="line"
+         x="23.940754"
+         y="97.629395"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82223px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
+         id="tspan1054-4-9-6">50 people living below the poverty line (LICO)</tspan></text>
+    <circle
+       style="display:inline;fill:#2a2c33;fill-opacity:1;stroke:#fff2f8;stroke-width:0.133821;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
+       id="path1270-0"
+       cx="21.997295"
+       cy="96.660965"
+       r="0.33617163" />
+  </g>
+</svg>
