@@ -15,7 +15,7 @@
    id="svg8"
    inkscape:version="1.0.2 (394de47547, 2021-03-26)"
    sodipodi:docname="I_mintraveltime.svg"
-   inkscape:export-filename="/home/jamaps/Dropbox/work/foodbank/access/map_v2/E_mintraveltime_delta.png"
+   inkscape:export-filename="/home/jamaps/Dropbox/work/foodbank/toronto-food-bank-accessibility/map_v2/E_mintraveltime_delta.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -27,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4142136"
-     inkscape:cx="238.89513"
-     inkscape:cy="160.25751"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="352.69915"
+     inkscape:cy="289.61485"
      inkscape:document-units="mm"
      inkscape:current-layer="layer5"
      inkscape:document-rotation="0"
@@ -37,9 +37,9 @@
      units="in"
      inkscape:snap-page="true"
      inkscape:window-width="1920"
-     inkscape:window-height="1016"
+     inkscape:window-height="1043"
      inkscape:window-x="0"
-     inkscape:window-y="1107"
+     inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:object-nodes="false">
     <inkscape:grid
@@ -65,7 +65,7 @@
      style="display:none"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/jamaps/Dropbox/work/foodbank/access/map_v2/Q_mintraveltime_april2021.png"
+       sodipodi:absref="/home/jamaps/Dropbox/work/foodbank/toronto-food-bank-accessibility/map_v2/Q_mintraveltime_april2021.png"
        xlink:href="Q_mintraveltime_april2021.png"
        width="165.10001"
        height="101.6"
@@ -81,7 +81,7 @@
      sodipodi:insensitive="true"
      style="display:none">
     <image
-       sodipodi:absref="/home/jamaps/Dropbox/work/foodbank/access/map_v2/Q_mintraveltime_feb2020.png"
+       sodipodi:absref="/home/jamaps/Dropbox/work/foodbank/toronto-food-bank-accessibility/map_v2/Q_mintraveltime_feb2020.png"
        xlink:href="Q_mintraveltime_feb2020.png"
        y="0"
        x="-6.1035157e-06"
@@ -97,7 +97,7 @@
      style="display:inline"
      sodipodi:insensitive="true">
     <image
-       sodipodi:absref="/home/jamaps/Dropbox/work/foodbank/access/map_v2/Q_mintraveltime_delta.png"
+       sodipodi:absref="/home/jamaps/Dropbox/work/foodbank/toronto-food-bank-accessibility/map_v2/Q_mintraveltime_delta.png"
        xlink:href="Q_mintraveltime_delta.png"
        width="165.10001"
        height="101.6"
@@ -275,7 +275,7 @@
          x="2.4904125"
          y="4.623487"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-         id="tspan953-7-2">Transit Accessibility to Food Banks 05/2021</tspan></text>
+         id="tspan953-7-2">Transit Accessibility to Food Banks in May, 2021</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -463,7 +463,7 @@
          x="2.6024964"
          y="4.6467528"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-         id="tspan953-7">Transit Accessibility to Food Banks 02/2020</tspan></text>
+         id="tspan953-7">Transit Accessibility to Food Banks in February, 2020</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -497,7 +497,7 @@
        rx="6.8608745e-07"
        transform="scale(-1)" />
     <rect
-       style="display:inline;fill:#f9f9d6;fill-opacity:1;stroke:#ac9d93;stroke-width:0.0952998;stroke-linecap:round;stop-color:#000000"
+       style="display:inline;fill:#f9f9d6;fill-opacity:1;stroke:#ac9d93;stroke-width:0.09498542;stroke-linecap:round;stop-color:#000000;stroke-miterlimit:4;stroke-dasharray:none"
        id="rect916-3-6-75"
        width="9.2393303"
        height="1.8163513"
@@ -740,7 +740,7 @@
          x="2.614495"
          y="4.6835093"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583"
-         id="tspan953-7-0">Changes in transit accessibility to food banks (05/2021 - 02/2020)</tspan></text>
+         id="tspan953-7-0">Changes in transit accessibility to food banks (May 2021 - February 2020)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:2.82223px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
@@ -758,5 +758,21 @@
        cx="21.997295"
        cy="96.660965"
        r="0.33617163" />
+    <path
+       style="fill:none;stroke:#ac9d93;stroke-width:0.272521;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 140.9164,78.321881 V 75.97914"
+       id="path968"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:2.82222px;line-height:1.25;font-family:sans-serif;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="140.13629"
+       y="80.629028"
+       id="text980-9-9-6"><tspan
+         sodipodi:role="line"
+         id="tspan978-0-7-7"
+         x="140.13629"
+         y="80.629028"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;stroke-width:0.264583">0</tspan></text>
   </g>
 </svg>
